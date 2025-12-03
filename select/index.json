@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ブルーライト",
+  "base_artist": "muque",
+  "createdAt": "2025-12-03T12:54:36.562666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルーライト・ヨコハマ",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/01_ブルーライト・ヨコハマ_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブルーライト",
+      "artist": "muque",
+      "has_synced": true,
+      "path": "select/02_ブルーライト_muque.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブルーライト",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/03_ブルーライト_muque.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーライト",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーライト_muque.txt"
+    }
+  ]
+}
